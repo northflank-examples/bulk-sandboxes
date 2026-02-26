@@ -1,0 +1,21 @@
+{
+  "name": "bulk-sandboxes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@northflank/js-client": "^0.8.12",
+    "bottleneck": "^2.19.5",
+    "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.1"
+  }
+}
